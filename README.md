@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux System Health Monitor
 
 ## Project Overview
@@ -27,3 +28,6 @@ Run script:
 - Log generation
 - Process monitoring
 - System usage tracking
+=======
+# linux-system-health-monitor
+>>>>>>> 127baf2f43656b035760eb1b419037dd58b18d95
